@@ -15,5 +15,8 @@ LL.M. candidate at Texas A&M School of Law, in risk management and compliance.
 The two overlap more than they look like they do — most of what makes scheduling
 hard across organizations is consent, retention and jurisdiction, not calendars.
 
+Security: [security@adelsaiq.ai](mailto:security@adelsaiq.ai) — never a public issue.
+See the [security policy](https://github.com/dannielagumo/.github/security/policy).
+
 [adelsaiq.ai](https://adelsaiq.ai) ·
 [danniela@adelsaiq.com](mailto:danniela@adelsaiq.com)
