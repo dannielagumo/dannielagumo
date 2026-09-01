@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://adelsaiq.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+      <img alt="Abstract artwork in violet and amber tones — adelsaiq.ai" src="assets/hero-light.svg" width="888">
+    </picture>
+  </a>
+</div>
+
 Founder of [AdelsaIQ](https://adelsaiq.ai) — cross-organizational meeting
 coordination: scheduling that spans separate organizations and calendar systems,
 which the platform-native tools do not do.
